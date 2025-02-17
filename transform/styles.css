@@ -1,0 +1,16 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 15px solid red;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    overflow: auto;
+}
+.outer{
+    background-color: green;
+    transform: scale(0.75) translate(50px) rotate(30deg);
+}
+.inner{
+    background-color: gray;
+    padding: 20px;
+}

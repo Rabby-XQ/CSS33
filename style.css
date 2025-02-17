@@ -1,0 +1,12 @@
+.box{
+    border: 5px solid rebeccapurple;
+    height: 200px;
+    width: 350px;
+    overflow: scroll;
+}
+.box2{
+    border: 5px solid red;
+    height: 200px;
+    width: 350px;
+    overflow: scroll;
+}
